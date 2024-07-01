@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Salameh 👋</h1>
-<h3 align="center">Computer System Engineering</h3>
+<h1 align="center">Computer System Engineering</h1>
 
 - 🔭 I’m currently working on **website design**
 
