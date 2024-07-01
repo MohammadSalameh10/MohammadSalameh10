@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Mohammad Salameh 👋</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Mohammad%20Salameh!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
+
 <h1 align="center">Computer System Engineering</h1>
 
 - 🔭 I’m currently working on **website design**
@@ -29,4 +30,4 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=111&section=footer)
