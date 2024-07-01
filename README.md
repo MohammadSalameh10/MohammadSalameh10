@@ -2,7 +2,7 @@
 
 <h1 align="center">Computer System Engineering</h1>
 
-- 🔭 I’m currently working on **website design**
+- 🚀 I’m currently working on **website design**
 
 - 💬 Ask me about **frontend**
 
