@@ -2,9 +2,11 @@
 
 <h1 align="center">Computer System Engineering Student</h1>
 
-- 🚀 I’m currently working on **website design**
+- 🧑‍💻  I’m currently a CSE student at PTUK
+  
+- 🚀 I’m currently learing **Full stack web development**
 
-- 💬 Ask me about **frontend**
+
 
 
 <h3 align="left">Connect with me:</h3>
