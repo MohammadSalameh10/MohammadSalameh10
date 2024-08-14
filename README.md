@@ -4,7 +4,7 @@
 
 - 🧑‍💻  I’m currently a CSE student at PTUK
   
-- 🚀 I’m currently learing **Full stack web development**
+- 🌐 I’m currently learing **Full stack web development**
 
 
 
