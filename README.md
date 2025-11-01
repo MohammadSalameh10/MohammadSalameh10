@@ -2,7 +2,7 @@
 
 <h1 align="center">Computer System Engineering Student</h1>
 
-- 🧑‍💻  I’m currently a CSE student at PTUK
+- 🧑‍💻  I’m currently a CSE student at Palestine Technical University - Kadoorie
   
 - 🌐 I’m currently learing **Full stack web development**
 
