@@ -40,9 +40,9 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" 
-   target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/sql/ssms/media/ssms-icon.svg" 
-       alt="ssms20" width="40" height="40" /></a>
+ <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" 
+   target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+       alt="sqlserver" width="40" height="40" /></a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a></p>
